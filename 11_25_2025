@@ -1,0 +1,2 @@
+date,store,new_units_today,used_units_today,total_units_today,mtd_new_units,mtd_used_units,mtd_total_units,mtd_units_target,mtd_front_pvr,mtd_back_pvr,mtd_total_pvr,mtd_finance_penetration_pct,mtd_lease_share_pct,mtd_vsc_penetration_pct,internet_leads_today,appts_set_today,appts_shown_today,appts_sold_today
+2025-11-24,"Cam Clark Hyundai",7,4,11,82,61,143,210,2180,1765,3945,63,28,42,26,19,13,7
